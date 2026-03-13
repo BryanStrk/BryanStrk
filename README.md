@@ -69,5 +69,5 @@ Trabajo con tecnologías backend y frontend, y disfruto creando proyectos que me
 
 ### 📫 Cómo contactarme
 
-- LinkedIn: [Tu LinkedIn aquí](https://www.linkedin.com/in/bryan-alejandro-paico-albines-5560142b0/)
-- Email: [Tu correo aquí](bryanpaicoalbines97@gmail.com)
+- LinkedIn: https://www.linkedin.com/in/bryan-alejandro-paico-albines-5560142b0/
+- Email: bryanpaicoalbines97@gmail.com
