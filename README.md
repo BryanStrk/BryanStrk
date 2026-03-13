@@ -1,73 +1,80 @@
-# ¡Hola! Soy Bryan  👋
+# Hola, soy Bryan 👋
 
 ## 💻 Junior Web Developer
 
 🎓 Graduado en Desarrollo de Aplicaciones Web (DAW)  
-🚀 Apasionado por el backend, las APIs REST y el desarrollo full stack  
-📍 Interesado en seguir creciendo profesionalmente en el sector del desarrollo web
+🚀 Enfocado en backend, APIs REST y desarrollo full stack  
+🌱 Actualmente sigo mejorando mis proyectos y ampliando mis conocimientos en desarrollo web  
 
 ---
 
-### 👨‍💻 Sobre mí
+## 👨‍💻 Sobre mí
 
-Soy un desarrollador web junior con interés en construir aplicaciones útiles, bien estructuradas y escalables.  
-Trabajo con tecnologías backend y frontend, y disfruto creando proyectos que me permitan seguir aprendiendo y mejorar como profesional.
+Soy un desarrollador web junior con interés en crear aplicaciones web funcionales, APIs REST y proyectos full stack bien estructurados.
 
----
-
-### 🛠 Stack tecnológico
-
-#### Backend
-- Java
-- Spring Boot
-- Python
-- Django
-- FastAPI
-
-#### Frontend
-- Angular
-- TypeScript
-- JavaScript
-- HTML
-- CSS
-
-#### Bases de datos
-- MySQL
-- MongoDB
-
-#### Herramientas
-- Git
-- GitHub
-- Postman
+Me gusta trabajar tanto en backend como en frontend, aplicar buenas prácticas de desarrollo y seguir evolucionando técnicamente con cada proyecto.
 
 ---
 
-### 📂 Proyectos principales
+## 🛠️ Tecnologías y herramientas
 
-- **API Transporte de Mercancías**  
-  Backend con Spring Boot y MongoDB.
+### Backend
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
-- **Smart Menu Front / Back**  
-  Proyecto full stack para la gestión de menús digitales.
+### Frontend
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-- **FastAPI Incidentes**  
-  API REST para gestión de incidencias.
+### Bases de datos
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-- **Proyectos con Django**  
-  Aplicaciones web desarrolladas con Python y Django.
+### Herramientas
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
-### 🎯 En qué estoy enfocado
+## 📌 Proyectos destacados
 
-- Desarrollo backend con Java y Python
-- Creación de APIs REST
-- Aplicaciones full stack con Angular
-- Mejora continua de proyectos y buenas prácticas
+### 🚚 API Transporte de Mercancías
+Proyecto backend desarrollado con **Spring Boot** y **MongoDB** para la gestión de transporte de mercancías.
+
+### 🍽️ Smart Menu
+Aplicación dividida en **frontend** y **backend** orientada a la gestión de menús digitales.
+
+### ⚠️ FastAPI Incidentes
+API REST desarrollada con **Python** y **FastAPI** para la gestión de incidencias.
+
+### 🌐 Proyectos con Django
+Aplicaciones web desarrolladas con **Django**, aplicando lógica backend y gestión de datos.
 
 ---
 
-### 📫 Cómo contactarme
+## 🎯 Objetivo profesional
+
+Seguir creciendo como desarrollador web, participando en proyectos donde pueda aportar valor en backend y full stack, mientras continúo ampliando mis conocimientos y experiencia profesional.
+
+---
+
+## 📫 Contacto
 
 - LinkedIn: https://www.linkedin.com/in/bryan-alejandro-paico-albines-5560142b0/
 - Email: bryanpaicoalbines97@gmail.com
+
+---
+
+## 📈 Actualmente
+
+- Mejorando mis proyectos personales
+- Reforzando buenas prácticas en backend y frontend
+- Construyendo un perfil profesional sólido en GitHub
+
