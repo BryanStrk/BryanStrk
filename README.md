@@ -1,20 +1,31 @@
-# Hola, soy Bryan 👋
+<h1 align="center">Hola, soy Bryan 👋</h1>
 
-## 💻 Junior Web Developer
+<p align="center">
+  <strong>Backend & Full Stack Developer</strong>
+</p>
 
-🎓 Graduado en Desarrollo de Aplicaciones Web (DAW)  
-🚀 Enfocado en backend, APIs REST y desarrollo full stack  
-📍 Interesado en seguir creciendo profesionalmente en el sector IT  
+<p align="center">
+  Java · Spring Boot · Python · Angular · APIs REST
+</p>
+
+<p align="center">
+  Graduado en Desarrollo de Aplicaciones Web (DAW) <br>
+  Construyendo aplicaciones funcionales, APIs bien estructuradas y proyectos orientados a resolver problemas reales.
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/bryan-alejandro-paico-albines-5560142b0/">LinkedIn</a> ·
+  <a href="mailto:bryanpaicoalbines97@gmail.com">Email</a>
+</p>
 
 ---
 
-## 👨‍💻 Sobre mí
+## 🚀 Sobre mí
 
-Soy desarrollador web junior con interés en crear aplicaciones funcionales, bien estructuradas y orientadas a resolver problemas reales.
+Soy desarrollador web con enfoque en backend y desarrollo full stack.  
+Me interesa construir aplicaciones escalables, limpias y mantenibles, cuidando tanto la lógica como la estructura del proyecto.
 
-Me especializo en backend y también disfruto trabajando en proyectos full stack, aplicando buenas prácticas, mejorando la estructura del código y aprendiendo nuevas tecnologías.
-
-En este perfil encontrarás proyectos con Java, Spring Boot, Python, Angular, TypeScript y bases de datos, enfocados en seguir construyendo una base profesional sólida.
+Actualmente sigo reforzando mis conocimientos en arquitectura backend, APIs REST, buenas prácticas y desarrollo profesional para seguir creciendo dentro del sector IT.
 
 ---
 
@@ -47,38 +58,30 @@ En este perfil encontrarás proyectos con Java, Spring Boot, Python, Angular, Ty
 
 ## 📌 Proyectos destacados
 
-- [API Transporte de Mercancías](https://github.com/BryanStrk/api-transporte-mercancias-springboot-mongodb)
-  API desarrollada con Spring Boot y MongoDB para la gestión de transporte de mercancías.
+### 🚚 [API Transporte de Mercancías](https://github.com/BryanStrk/api-transporte-mercancias-springboot-mongodb)
+API REST desarrollada con Spring Boot y MongoDB para la gestión de transporte de mercancías.
 
-- [Smart Menu Front](https://github.com/BryanStrk/smart-menu-front)
-  Frontend de una aplicación para la gestión de menús digitales.
+### 🍽️ [Smart Menu Front](https://github.com/BryanStrk/smart-menu-front)
+Frontend en Angular para una aplicación de gestión de menús digitales.
 
-- [Smart Menu Back](https://github.com/BryanStrk/smart-menu-back)
-  Backend del sistema Smart Menu.
+### ⚙️ [Smart Menu Back](https://github.com/BryanStrk/smart-menu-back)
+Backend del sistema Smart Menu, centrado en la lógica de negocio y gestión de datos.
 
-- [FastAPI Incidentes](https://github.com/BryanStrk/FastApi_incidentes)
-  API REST creada con Python y FastAPI para la gestión de incidencias.
+### 🛠️ [FastAPI Incidentes](https://github.com/BryanStrk/FastApi_incidentes)
+API REST desarrollada con Python y FastAPI para la gestión de incidencias.
 
-- [Proyecto Django](https://github.com/BryanStrk/Django_2)
-  Aplicación web desarrollada con Django y gestión de datos.
-
----
-
-## 📚 Actualmente aprendiendo
-
-- Mejora de arquitectura backend
-- Buenas prácticas en APIs REST
-- Desarrollo full stack con Angular
-- Despliegue y presentación profesional de proyectos
+### 🌐 [Proyecto Django](https://github.com/BryanStrk/Django_2)
+Aplicación web construida con Django con gestión de datos y estructura backend.
 
 ---
 
-## 🚀 Disponible para
+## 🎯 Actualmente enfocado en
 
-- oportunidades como desarrollador web junior
-- proyectos backend y full stack
-- colaboración en proyectos reales
-- seguir creciendo en entornos profesionales
+- mejorar mi arquitectura backend
+- construir APIs REST más sólidas
+- seguir creciendo en desarrollo full stack
+- presentar mis proyectos de forma más profesional
+- terminar mi portfolio personal
 
 ---
 
@@ -95,5 +98,4 @@ En este perfil encontrarás proyectos con Java, Spring Boot, Python, Angular, Ty
 ## 📫 Contacto
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/bryan-alejandro-paico-albines-5560142b0/)
-[![Gmail](https://img.shields.io/badge/Gmail-Contactar-red?style=for-the-badge&logo=gmail&logoColor=white)](bryanpaicoalbines97@gmail.com)
-
+[![Email](https://img.shields.io/badge/Email-Contactar-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bryanpaicoalbines97@gmail.com)
