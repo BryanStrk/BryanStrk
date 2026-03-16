@@ -53,7 +53,7 @@ En este perfil encontrarás proyectos con Java, Spring Boot, Python, Angular, Ty
 - [Smart Menu Front](https://github.com/BryanStrk/smart-menu-front)
   Frontend de una aplicación para la gestión de menús digitales.
 
-- [Smart Menu Back]([https://github.com/BryanStrk/smart-menu-back])
+- [Smart Menu Back](https://github.com/BryanStrk/smart-menu-back)
   Backend del sistema Smart Menu.
 
 - [FastAPI Incidentes](https://github.com/BryanStrk/FastApi_incidentes)
