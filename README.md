@@ -4,22 +4,24 @@
 
 🎓 Graduado en Desarrollo de Aplicaciones Web (DAW)  
 🚀 Enfocado en backend, APIs REST y desarrollo full stack  
-🌱 Actualmente sigo mejorando mis proyectos y ampliando mis conocimientos en desarrollo web  
+📍 Interesado en seguir creciendo profesionalmente en el sector IT  
 
 ---
 
 ## 👨‍💻 Sobre mí
 
-Soy un desarrollador web junior con interés en crear aplicaciones web funcionales, APIs REST y proyectos full stack bien estructurados.
+Soy desarrollador web junior con interés en crear aplicaciones funcionales, bien estructuradas y orientadas a resolver problemas reales.
 
-Me gusta trabajar tanto en backend como en frontend, aplicar buenas prácticas de desarrollo y seguir evolucionando técnicamente con cada proyecto.
+Me especializo en backend y también disfruto trabajando en proyectos full stack, aplicando buenas prácticas, mejorando la estructura del código y aprendiendo nuevas tecnologías.
+
+En este perfil encontrarás proyectos con Java, Spring Boot, Python, Angular, TypeScript y bases de datos, enfocados en seguir construyendo una base profesional sólida.
 
 ---
 
 ## 🛠️ Tecnologías y herramientas
 
 ### Backend
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
@@ -45,36 +47,53 @@ Me gusta trabajar tanto en backend como en frontend, aplicar buenas prácticas d
 
 ## 📌 Proyectos destacados
 
-### 🚚 API Transporte de Mercancías
-Proyecto backend desarrollado con **Spring Boot** y **MongoDB** para la gestión de transporte de mercancías.
+- [API Transporte de Mercancías](https://github.com/BryanStrk/api-transporte-mercancias-springboot-mongodb)
+  API desarrollada con Spring Boot y MongoDB para la gestión de transporte de mercancías.
 
-### 🍽️ Smart Menu
-Aplicación dividida en **frontend** y **backend** orientada a la gestión de menús digitales.
+- [Smart Menu Front](https://github.com/BryanStrk/smart-menu-front)
+  Frontend de una aplicación para la gestión de menús digitales.
 
-### ⚠️ FastAPI Incidentes
-API REST desarrollada con **Python** y **FastAPI** para la gestión de incidencias.
+- [Smart Menu Back]([https://github.com/BryanStrk/smart-menu-back])
+  Backend del sistema Smart Menu.
 
-### 🌐 Proyectos con Django
-Aplicaciones web desarrolladas con **Django**, aplicando lógica backend y gestión de datos.
+- [FastAPI Incidentes](https://github.com/BryanStrk/FastApi_incidentes)
+  API REST creada con Python y FastAPI para la gestión de incidencias.
+
+- [Proyecto Django](https://github.com/BryanStrk/Django_2)
+  Aplicación web desarrollada con Django y gestión de datos.
 
 ---
 
-## 🎯 Objetivo profesional
+## 📚 Actualmente aprendiendo
 
-Seguir creciendo como desarrollador web, participando en proyectos donde pueda aportar valor en backend y full stack, mientras continúo ampliando mis conocimientos y experiencia profesional.
+- Mejora de arquitectura backend
+- Buenas prácticas en APIs REST
+- Desarrollo full stack con Angular
+- Despliegue y presentación profesional de proyectos
+
+---
+
+## 🚀 Disponible para
+
+- oportunidades como desarrollador web junior
+- proyectos backend y full stack
+- colaboración en proyectos reales
+- seguir creciendo en entornos profesionales
+
+---
+
+## 📊 GitHub Stats
+
+![Bryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=BryanStrk&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BryanStrk&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=BryanStrk&theme=tokyonight)
 
 ---
 
 ## 📫 Contacto
 
-- LinkedIn: https://www.linkedin.com/in/bryan-alejandro-paico-albines-5560142b0/
-- Email: bryanpaicoalbines97@gmail.com
-
----
-
-## 📈 Actualmente
-
-- Mejorando mis proyectos personales
-- Reforzando buenas prácticas en backend y frontend
-- Construyendo un perfil profesional sólido en GitHub
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/bryan-alejandro-paico-albines-5560142b0/)
+[![Gmail](https://img.shields.io/badge/Gmail-Contactar-red?style=for-the-badge&logo=gmail&logoColor=white)](bryanpaicoalbines97@gmail.com)
 
