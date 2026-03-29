@@ -76,11 +76,10 @@ Aplicación web con Django, gestión de datos y arquitectura backend.
 
 <div align="center">
 
-[![GitHub stats](https://readme-stats-sigma-five.vercel.app/api?username=BryanStrk&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/BryanStrk)
-
-[![Top Langs](https://readme-stats-sigma-five.vercel.app/api/top-langs/?username=BryanStrk&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/BryanStrk)
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=BryanStrk&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+![](https://img.shields.io/badge/Contribuciones-113-blue?style=for-the-badge&logo=github)
+![](https://img.shields.io/badge/Repositorios-públicos-181717?style=for-the-badge&logo=github)
 
 </div>
 
