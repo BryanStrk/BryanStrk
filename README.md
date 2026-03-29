@@ -1,35 +1,31 @@
-<h1 align="center">Hola, soy Bryan 👋</h1>
-
-<p align="center">
-  <strong>Backend & Full Stack Developer</strong>
-</p>
-
-<p align="center">
-  Java · Spring Boot · Python · Angular · APIs REST
-</p>
-
-<p align="center">
-  Graduado en Desarrollo de Aplicaciones Web (DAW) <br>
-  Construyendo aplicaciones funcionales, APIs bien estructuradas y proyectos orientados a resolver problemas reales.
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/bryan-alejandro-paico-albines-5560142b0/">LinkedIn</a> ·
-  <a href="mailto:bryanpaicoalbines97@gmail.com">Email</a>
-</p>
+<div align="center">
+  <h1>Bryan Paico Albines</h1>
+  <p><strong>Backend & Full Stack Developer</strong></p>
+  <p>Java · Spring Boot · Python · Angular · APIs REST</p>
+  <p>
+    <a href="https://www.linkedin.com/in/bryan-alejandro-paico-albines-5560142b0/">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="mailto:bryanpaicoalbines97@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+    <a href="https://github.com/BryanStrk">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    </a>
+  </p>
+</div>
 
 ---
 
-## 🚀 Sobre mí
+## Sobre mí
 
-Soy desarrollador web con enfoque en backend y desarrollo full stack.  
-Me interesa construir aplicaciones escalables, limpias y mantenibles, cuidando tanto la lógica como la estructura del proyecto.
+Desarrollador web con enfoque en backend y desarrollo full stack, graduado en Desarrollo de Aplicaciones Web (DAW).
 
-Actualmente sigo reforzando mis conocimientos en arquitectura backend, APIs REST, buenas prácticas y desarrollo profesional para seguir creciendo dentro del sector IT.
+Me especializo en construir APIs REST bien estructuradas y aplicaciones fullstack funcionales con Java, Spring Boot y Angular. Actualmente sigo profundizando en arquitectura de software, buenas prácticas y crecimiento profesional dentro del sector IT.
 
 ---
 
-## 🛠️ Tecnologías y herramientas
+## 🛠️ Tecnologías
 
 ### Backend
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -52,50 +48,53 @@ Actualmente sigo reforzando mis conocimientos en arquitectura backend, APIs REST
 ### Herramientas
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
 ## 📌 Proyectos destacados
 
+### 🍽️ Smart Menu — Sistema de menú inteligente para restaurantes
+Aplicación fullstack con Angular + Spring Boot + MongoDB. Incluye recomendación de platos por IA según perfil nutricional, gestión de pedidos en tiempo real con sistema kanban para cocina, y panel de administración completo.
+
+- **Frontend:** [smart-menu-front](https://github.com/BryanStrk/smart-menu-front) — Angular 20, Signals, JWT
+- **Backend:** [smart-menu-back](https://github.com/BryanStrk/smart-menu-back) — Spring Boot, MongoDB, Spring Security
+
 ### 🚚 [API Transporte de Mercancías](https://github.com/BryanStrk/api-transporte-mercancias-springboot-mongodb)
-API REST desarrollada con Spring Boot y MongoDB para la gestión de transporte de mercancías.
-
-### 🍽️ [Smart Menu Front](https://github.com/BryanStrk/smart-menu-front)
-Frontend en Angular para una aplicación de gestión de menús digitales.
-
-### ⚙️ [Smart Menu Back](https://github.com/BryanStrk/smart-menu-back)
-Backend del sistema Smart Menu, centrado en la lógica de negocio y gestión de datos.
+API REST con Spring Boot y MongoDB para gestión de transporte y mercancías.
 
 ### 🛠️ [FastAPI Incidentes](https://github.com/BryanStrk/FastApi_incidentes)
-API REST desarrollada con Python y FastAPI para la gestión de incidencias.
+API REST con Python y FastAPI para gestión de incidencias.
 
 ### 🌐 [Proyecto Django](https://github.com/BryanStrk/Django_2)
-Aplicación web construida con Django con gestión de datos y estructura backend.
-
----
-
-## 🎯 Actualmente enfocado en
-
-- mejorar mi arquitectura backend
-- construir APIs REST más sólidas
-- seguir creciendo en desarrollo full stack
-- presentar mis proyectos de forma más profesional
-- terminar mi portfolio personal
+Aplicación web con Django, gestión de datos y arquitectura backend.
 
 ---
 
 ## 📊 GitHub Stats
 
-![Bryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=BryanStrk&show_icons=true&theme=tokyonight)
+<div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BryanStrk&layout=compact&theme=tokyonight)
+![Bryan's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=BryanStrk&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=BryanStrk&theme=tokyonight)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=BryanStrk&layout=compact&theme=tokyonight&hide_border=true)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=BryanStrk&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+</div>
 
 ---
 
-## 📫 Contacto
+## 🎯 Actualmente trabajando en
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/bryan-alejandro-paico-albines-5560142b0/)
-[![Email](https://img.shields.io/badge/Email-Contactar-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bryanpaicoalbines97@gmail.com)
+- Arquitectura backend con Spring Boot y buenas prácticas (SOLID, capas)
+- APIs REST robustas con Spring Security y JWT
+- Desarrollo fullstack con Angular y Spring Boot
+- Preparación de proyectos para presentación profesional y portfolio
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=BryanStrk&color=blue&style=flat-square" alt="Profile views" />
+</div>
