@@ -76,9 +76,9 @@ Aplicación web con Django, gestión de datos y arquitectura backend.
 
 <div align="center">
 
-![Bryan's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=BryanStrk&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+[![GitHub stats](https://readme-stats-sigma-five.vercel.app/api?username=BryanStrk&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/BryanStrk)
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=BryanStrk&layout=compact&theme=tokyonight&hide_border=true)
+[![Top Langs](https://readme-stats-sigma-five.vercel.app/api/top-langs/?username=BryanStrk&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/BryanStrk)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=BryanStrk&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
