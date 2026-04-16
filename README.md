@@ -76,10 +76,15 @@ Aplicación web con Django, gestión de datos y arquitectura backend.
 
 <div align="center">
 
+### 🔥 Streak Stats
 [![GitHub Streak](https://streak-stats.demolab.com?user=BryanStrk&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
-![](https://img.shields.io/badge/Contribuciones-113-blue?style=for-the-badge&logo=github)
-![](https://img.shields.io/badge/Repositorios-públicos-181717?style=for-the-badge&logo=github)
+### 💻 Profile Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BryanStrk&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BryanStrk&layout=compact&theme=tokyonight&hide_border=true)
+
+### 📈 Contribution Graph
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=BryanStrk&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
