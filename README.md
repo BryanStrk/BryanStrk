@@ -185,10 +185,10 @@ Explora todos mis repositorios públicos: APIs REST, scripts en Python, ejercici
 <table>
 <tr>
 <td>
-<img src="https://github-readme-stats.vercel.app/api?username=BryanStrk&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800" alt="Bryan's GitHub Stats" />
+<img src="https://readme-stats-olive-eight.vercel.app/api?username=BryanStrk&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800" alt="Bryan's GitHub Stats" />
 </td>
 <td>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BryanStrk&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" alt="Top Languages" />
+<img src="https://readme-stats-olive-eight.vercel.app/api/top-langs/?username=BryanStrk&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" alt="Top Languages" />
 </td>
 </tr>
 </table>
@@ -227,7 +227,7 @@ Explora todos mis repositorios públicos: APIs REST, scripts en Python, ejercici
 <!--                          CONTACT                               -->
 <!-- ╚══════════════════════════════════════════════════════════════╝ -->
 
-## 🤝 Conectemos
+## 🤝 
 
 <div align="center">
 
