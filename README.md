@@ -72,7 +72,7 @@ Construyo **APIs REST robustas documentadas con Swagger/OpenAPI**, aplicaciones 
 
 **Herramientas & DevOps**
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,postman,idea,vscode,linux&theme=dark" alt="Tools" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,idea,eclipse,vscode,linux&theme=dark" alt="Tools" />
 <img src="https://cdn.simpleicons.org/swagger/85EA2D" alt="Swagger" width="48" height="48" />
 
 </div>
