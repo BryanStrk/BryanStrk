@@ -64,7 +64,7 @@ Construyo **APIs REST robustas documentadas con Swagger/OpenAPI**, aplicaciones 
 
 **Frontend**
 
-<img src="https://skillicons.dev/icons?i=angular,react,typescript,javascript,html,css,tailwind&theme=dark" alt="Frontend Stack" />
+<img src="https://skillicons.dev/icons?i=angular,react,typescript,javascript,html,css,tailwind,bootstrap&theme=dark" alt="Frontend Stack" />
 
 **Bases de datos**
 
