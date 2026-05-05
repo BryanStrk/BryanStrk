@@ -1,14 +1,14 @@
 <!-- ╔══════════════════════════════════════════════════════════════╗ -->
-<!--                          HEADER BANNER                          -->
+<!--                          HEADER                                -->
 <!-- ╚══════════════════════════════════════════════════════════════╝ -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,2,30&height=220&section=header&text=Bryan%20Paico%20Albines&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20%26%20Full%20Stack%20Developer&descAlignY=58&descSize=18" alt="header" />
+# Hi, I'm Bryan Paico Albines 👋
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=650&lines=Java+%E2%80%A2+Spring+Boot+%E2%80%A2+Angular;Backend+Architecture+Enthusiast;Clean+Code+%26+REST+APIs+Lover;DAW+Graduate+%E2%80%A2+Always+Learning" alt="Typing SVG" />
-</a>
+### `Backend & Full Stack Developer`
+
+**`Java`** **`·`** **`Spring Boot`** **`·`** **`Angular`** **`·`** **`REST APIs`**
 
 <br />
 
@@ -30,7 +30,7 @@
 
 </div>
 
-<br />
+---
 
 <!-- ╔══════════════════════════════════════════════════════════════╗ -->
 <!--                          ABOUT ME                              -->
@@ -223,11 +223,13 @@ Explora todos mis repositorios públicos: APIs REST, scripts en Python, ejercici
 
 <br />
 
+---
+
 <!-- ╔══════════════════════════════════════════════════════════════╗ -->
 <!--                          CONTACT                               -->
 <!-- ╚══════════════════════════════════════════════════════════════╝ -->
 
-## 🤝 
+## 🤝 Conectemos
 
 <div align="center">
 
@@ -241,8 +243,6 @@ Explora todos mis repositorios públicos: APIs REST, scripts en Python, ejercici
 </a>
 
 <br /><br />
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,2,30&height=120&section=footer" alt="footer" />
 
 <sub>⭐ <em>From <a href="https://github.com/BryanStrk">BryanStrk</a> with passion for clean code</em></sub>
 
