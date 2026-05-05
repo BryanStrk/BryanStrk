@@ -5,7 +5,7 @@
 <div align="center">
 
 <a href="https://github.com/BryanStrk">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2800&pause=900&color=7AA2F7&center=true&vCenter=true&width=700&height=70&lines=Hi%2C+I'm+Bryan+Paico+Albines+%F0%9F%91%8B;Backend+and+Full+Stack+Developer;Java+%7C+Spring+Boot+%7C+Angular;Clean+Code+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2800&pause=900&color=7AA2F7&center=true&vCenter=true&width=700&height=70&lines=Hi%2C+I'm+Bryan+Paico+Albines+%F0%9F%91%8B;Backend+and+Full+Stack+Developer;Java+%7C+Spring+%7C+Angular+%7C+React;Clean+Code+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
 </a>
 
 <br />
@@ -36,9 +36,9 @@
 
 ## 👨‍💻 Sobre mí
 
-Desarrollador **Backend & Full Stack** con base sólida en **Java + Spring Boot + Angular**, formado en Desarrollo de Aplicaciones Web (DAW).
+Desarrollador **Backend & Full Stack** con base sólida en **Java + Spring Boot + Angular + React**, formado en Desarrollo de Aplicaciones Web (DAW).
 
-Construyo **APIs REST robustas**, aplicaciones full stack escalables y me enfoco en **arquitectura limpia, buenas prácticas y código mantenible**. Apasionado por aprender, mejorar continuamente y aportar valor real desde el código.
+Construyo **APIs REST robustas documentadas con Swagger/OpenAPI**, aplicaciones full stack escalables y me enfoco en **arquitectura limpia, buenas prácticas y código mantenible**. Apasionado por aprender, mejorar continuamente y aportar valor real desde el código.
 
 ```yaml
 👀  Trabajando en:    Smart Menu — sistema fullstack con IA para restaurantes
@@ -64,7 +64,7 @@ Construyo **APIs REST robustas**, aplicaciones full stack escalables y me enfoco
 
 **Frontend**
 
-<img src="https://skillicons.dev/icons?i=angular,typescript,javascript,html,css,tailwind&theme=dark" alt="Frontend Stack" />
+<img src="https://skillicons.dev/icons?i=angular,react,typescript,javascript,html,css,tailwind&theme=dark" alt="Frontend Stack" />
 
 **Bases de datos**
 
@@ -72,7 +72,7 @@ Construyo **APIs REST robustas**, aplicaciones full stack escalables y me enfoco
 
 **Herramientas & DevOps**
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,postman,idea,vscode,linux&theme=dark" alt="Tools" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,swagger,idea,vscode,linux&theme=dark" alt="Tools" />
 
 </div>
 
@@ -111,7 +111,7 @@ API REST para gestión logística de transporte y mercancías con arquitectura p
 <p>
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST-FF6C37?style=flat&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black" />
 </p>
 
 🔗 [Ver repositorio →](https://github.com/BryanStrk/api-transporte-mercancias-springboot-mongodb)
@@ -126,7 +126,7 @@ Sistema de gestión de incidencias construido con Python y FastAPI. Endpoints do
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenAPI-6BA539?style=flat&logo=openapiinitiative&logoColor=white" />
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black" />
 </p>
 
 🔗 [Ver repositorio →](https://github.com/BryanStrk/FastApi_incidentes)
@@ -215,8 +215,8 @@ Explora todos mis repositorios públicos: APIs REST, scripts en Python, ejercici
 
 - 🏗️ **Arquitectura backend** con Spring Boot aplicando principios SOLID y diseño por capas
 - 🔐 **Spring Security + JWT** para autenticación robusta en APIs REST
-- 🌐 **Desarrollo full stack** con Angular y Spring Boot integrados
-- 📚 **Buenas prácticas profesionales:** testing, documentación con OpenAPI, Conventional Commits
+- 🌐 **Desarrollo full stack** con Angular, React y Spring Boot integrados
+- 📚 **Buenas prácticas profesionales:** testing, documentación con Swagger/OpenAPI, Conventional Commits
 - 🚀 **Preparación de portfolio** y proyectos para presentación profesional
 
 <br />
