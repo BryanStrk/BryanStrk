@@ -4,11 +4,9 @@
 
 <div align="center">
 
-# Hi, I'm Bryan Paico Albines 👋
-
-### `Backend & Full Stack Developer`
-
-**`Java`** **`·`** **`Spring Boot`** **`·`** **`Angular`** **`·`** **`REST APIs`**
+<a href="https://github.com/BryanStrk">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2800&pause=900&color=7AA2F7&center=true&vCenter=true&width=700&height=70&lines=Hi%2C+I'm+Bryan+Paico+Albines+%F0%9F%91%8B;Backend+and+Full+Stack+Developer;Java+%7C+Spring+Boot+%7C+Angular;Clean+Code+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
+</a>
 
 <br />
 
