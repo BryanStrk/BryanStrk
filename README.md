@@ -45,7 +45,7 @@ Construyo **APIs REST robustas documentadas con Swagger/OpenAPI**, aplicaciones 
 🌱  Aprendiendo:      Spring Security avanzado, microservicios, Docker
 💬  Hablemos sobre:   Spring Boot, arquitectura backend, REST APIs
 🎯  Objetivo 2026:    Crecer como dev backend en un equipo profesional
-⚡  Curiosidad:       Cuando no programo, emprendo (Ravello Candles 🕯️)
+
 ```
 
 <br />
