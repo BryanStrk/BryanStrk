@@ -108,9 +108,6 @@ Construyo **APIs REST robustas documentadas con Swagger/OpenAPI**, aplicaciones 
 </tr>
 </table>
 
-### 🏆 Trofeos
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=BryanStrk&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### 📈 Actividad
 
